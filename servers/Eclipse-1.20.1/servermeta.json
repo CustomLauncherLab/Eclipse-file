@@ -1,0 +1,26 @@
+{
+  "$schema": "file:///D:/Coding/Projects/CustomLauncherLab/distro-file/Eclipse-file/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "이클립스",
+    "description": "1.20.1 (Forge v47.3.5)",
+    "icon": "https://github.com/CustomLauncherLab/Eclipse-file/raw/main/server-icon.png",
+    "address": "이클립스.서버.한국",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.3.5"
+  },
+  "untrackedFiles": [
+    {
+      "appliesTo": ["files"],
+      "patterns": ["servers.dat", "options.txt", "shaderpacks/*.*"]
+    }
+  ]
+}
