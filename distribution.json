@@ -443,6 +443,16 @@
           }
         },
         {
+          "id": "mod.chiselsandbits:chiselsandbits:1.4.148@jar",
+          "name": "Chisels-and-bits",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2105922,
+            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Eclipse-file/main/servers/Eclipse-1.20.1/forgemods/required/chisels-and-bits-forge-1.4.148.jar",
+            "MD5": "dab773ee65efd8f1f79505e7cadd825a"
+          }
+        },
+        {
           "id": "com.simibubi:create:0.5.1.f@jar",
           "name": "Create",
           "type": "ForgeMod",
@@ -490,16 +500,6 @@
             "size": 2831148,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Eclipse-file/main/servers/Eclipse-1.20.1/forgemods/required/oculus-mc1.20.1-1.7.0.jar",
             "MD5": "45b96133bb46cc61dd9778bd4fca741d"
-          }
-        },
-        {
-          "id": "com.supermartijn642:rechiseled:1.1.6@jar",
-          "name": "Rechiseled",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3600460,
-            "url": "https://raw.githubusercontent.com/CustomLauncherLab/Eclipse-file/main/servers/Eclipse-1.20.1/forgemods/required/rechiseled-1.1.6-forge-mc1.20.jar",
-            "MD5": "bf5a3b3264d2eb5e12ac6d9b0fcc1f90"
           }
         },
         {
