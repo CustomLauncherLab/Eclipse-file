@@ -527,7 +527,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5304,
+            "size": 5296,
             "url": "https://raw.githubusercontent.com/CustomLauncherLab/Eclipse-file/main/servers/Eclipse-1.20.1/files/options.txt",
             "path": "options.txt"
           }
